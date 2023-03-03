@@ -35,6 +35,6 @@ Você pode acessar o projeto final clicando aqui: :construction: Endereço em co
 
 <h2 align="center"> :heavy_check_mark: Pessoas desenvolvedoras do projeto </h2>
 
-| [<img src="https://avatars.githubusercontent.com/u/84294361?v=4" width=115><br><sub>Jeff Chien</sub>](https://github.com/JeffChien1) |
-| :---: |
+| [<img src="https://avatars.githubusercontent.com/u/84294361?v=4" width=115><br><sub>Jeff Chien</sub>](https://github.com/JeffChien1) | [<img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" width=115><br><sub>Equipe Alura</sub>](https://github.com/alura-cursos) | 
+| :---: | :---: |
 
