@@ -5,6 +5,14 @@
 
 <h2 align="center"> Descrição do Projeto </h2>
  
-Projeto criado para exercitar e trabalhar as funções de Javascript, manipulando DOM.
+Projeto orientado pela Alura, para treinamento e ensino da linguagem JavaScript, manipulando DOM.
+
+*imagem do site*
+
+<h2 align="center"> Status do projeto </h2>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
