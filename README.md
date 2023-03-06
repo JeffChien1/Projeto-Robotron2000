@@ -7,7 +7,8 @@
  
 Projeto orientado pela Alura, para treinamento e ensino da linguagem JavaScript, manipulando DOM.
 
-**imagem do site**
+![Imagem do site](https://user-images.githubusercontent.com/84294361/223078397-1b170906-41a3-4949-972b-3f9dcf8fa644.png)
+
 
 <h2 align="center"> Status do projeto </h2>
 
@@ -20,7 +21,10 @@ Projeto orientado pela Alura, para treinamento e ensino da linguagem JavaScript,
 
 - `Funcionalidade 1`: Customização e adição de peças ao robô para melhorar seus números para batalha
 
-**Postar um vídeo do funcionamento do site**
+
+https://user-images.githubusercontent.com/84294361/223082466-223490e4-19a6-40d9-b85c-c325237cabf3.mp4
+
+
 
 <h2 align="center"> :open_file_folder: Acesso ao projeto </h2>
 
